@@ -1,0 +1,21 @@
+.person-details-card {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    border: 1px solid #444;
+    margin-top: 20px;
+}
+
+.person-details-card .person-image {
+    width: 20%;
+
+    border-radius: 10px;
+}
+
+.person-details-card .list-group-item {
+    padding: .25rem;
+}
+
+.person-details-card .list-group-item .term{
+    margin-right: .5rem;
+}
